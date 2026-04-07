@@ -1,0 +1,26 @@
+title: Future Labs Summer School 
+description: Jekyll theme for a conference website
+baseurl: /2026-demo
+url: https://nrhemanth.github.io
+
+permalink: pretty
+remote_theme: piazzai/jekyll-nagymaros
+
+home: /
+copyright: Future Labs Summer School
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+sass:
+  sourcemap: never
+  
