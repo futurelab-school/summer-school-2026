@@ -20,14 +20,18 @@ navorder: 1
 <ul class="list-unstyled">
 <li>Professionals, postdocs, graduate students, undergraduate students.</li>
 <li>All coding activities will have ChatGPT-assisted coding — no Python or coding experience required.</li>
+<li>This is an in person event limited to 45 participants.</li>
 </ul>
 
-<ul class="list-unstyled mt-2">
-<li> Bring your own laptop.</li>
-<li> Long pants and close-toed shoes required to enter labs.</li>
+<p class="mb-1"><strong>Please read:</strong></p>
+<ul class="list-unstyled mt-1">
+<li>Bring your own laptop.</li>
+<li>Long pants and close-toed shoes required to enter labs.</li>
+<li>Site Access: All foreign nationals visiting Berkeley Lab require Department of Energy approval. It may take up to 60 calendar days to complete.</li>
 </ul>
 
-<a href="#" class="btn btn-primary mb-4">Register</a>
+<a href="#" class="btn btn-primary mb-2 disabled">Register</a><br>
+<small class="text-muted">(Registration is opening late in April)</small>
 
 </div>
 
