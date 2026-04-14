@@ -249,15 +249,8 @@ navorder: 3
     <tr>
       <td>3:30</td>
       <td>
-        Generative models AND/OR Agentic workflows OR invited talks<br>
+        Generative models AND/OR Agentic workflows<br>
         <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <strong>Invited talks</strong><br>
-        <span class="text-muted small">Potential speakers: Prof. Shijing Sun · Prof. Yuanyuan Zhou · Prof. Tonio Buonassisi · Dr. Wiebke Koepp</span>
       </td>
     </tr>
   </tbody>

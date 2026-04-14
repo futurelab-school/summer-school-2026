@@ -30,28 +30,10 @@ navorder: 1
 <li>Site Access: All foreign nationals visiting Berkeley Lab require Department of Energy approval. It may take up to 60 calendar days to complete.</li>
 </ul>
 
-<a href="#" class="btn btn-primary mb-2 disabled">Register</a><br>
+<a href="#" class="btn btn-primary mb-2 disabled" style="opacity:1;">Register</a><br>
 <small class="text-muted">(Registration is opening late in April)</small>
 
 </div>
-
-<hr class="my-4">
-
-<h2>Invited Speakers</h2>
-
-{% for speaker in site.data.home.invited_speakers %}
-<div class="row mb-4 align-items-center">
-<div class="col-auto">
-<img src="{{ '/assets/images/' | append: speaker.photo | relative_url }}"
-     class="rounded-circle" style="width:175px;height:175px;object-fit:cover;object-position:top center;" alt="{{ speaker.name }}">
-</div>
-<div class="col">
-<strong>{{ speaker.name }}</strong><br>
-<span class="text-muted">{{ speaker.affiliation }}</span>
-<p class="mt-1 mb-0">{{ speaker.bio }}</p>
-</div>
-</div>
-{% endfor %}
 
 </div>
 
