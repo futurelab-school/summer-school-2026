@@ -30,8 +30,7 @@ navorder: 1
 <li>Site Access: All foreign nationals visiting Berkeley Lab require Department of Energy approval. It may take up to 60 calendar days to complete.</li>
 </ul>
 
-<a href="#" class="btn btn-primary mb-2" style="pointer-events:none;">Register</a><br>
-<small class="text-muted">(Registration is opening late in April)</small>
+<a href="https://urldefense.com/v3/__https://web.cvent.com/event/c7879152-9175-4502-a0d3-38815f60dfe5/register__;!!K-Hz7m0Vt54!gqH80qOVWWzpO_B6ISDh-6R9SENmPt-LNPX5yP6G-sEuCKNo8gLAyEErGDL7907p1P4raBO6H4-7lu2W5TDlNts$" class="btn btn-primary mb-2" target="_blank">Register</a>
 
 </div>
 

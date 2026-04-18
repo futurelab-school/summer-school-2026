@@ -146,7 +146,7 @@ navorder: 3
       <td>1:45</td>
       <td>
         Basics Gaussian process surrogate<br>
-        <span class="text-muted small">Maher Alghalayini (Lawrence Berkeley National Lab) / Marcus Noack (Lawrence Berkeley National Lab)</span>
+        <span class="text-muted small">Marcus Noack (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr>
@@ -161,7 +161,7 @@ navorder: 3
       <td>3:45</td>
       <td>
         Bayesian optimization<br>
-        <span class="text-muted small">Maher Alghalayini (Lawrence Berkeley National Lab) / Marcus Noack (Lawrence Berkeley National Lab)</span>
+        <span class="text-muted small">Marcus Noack (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr>
