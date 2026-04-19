@@ -113,5 +113,5 @@ data_instructors:
     photo: "marcus_noack.jpg"
   - name: "Fabrice Roncoroni"
     affiliation: "Lawrence Berkeley National Laboratory"
-    role: "Scientific Engineering Assoc."
+    role: "Scientific Engineering Associate"
     photo: "Fabrice_Roncoroni.jpg"

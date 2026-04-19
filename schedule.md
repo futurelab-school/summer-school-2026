@@ -249,7 +249,7 @@ navorder: 3
     <tr>
       <td>3:30</td>
       <td>
-        Generative models AND/OR Agentic workflows<br>
+        Generative models and/or Agentic workflows<br>
         <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
