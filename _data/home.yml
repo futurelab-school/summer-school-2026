@@ -88,6 +88,10 @@ experimental_instructors:
     affiliation: "National Taiwan University"
     role: "PhD Student"
     photo: "Chia-Feng.jpg"
+  - name: "Abigail Hering"
+    affiliation: "University of California Davis"
+    role: "PhD Student"
+    photo: "abigail_hering.jpg"
 
 data_instructors:
   - name: "Morgan Wall"
