@@ -120,4 +120,4 @@ navorder: 8
 ## Networking & Social
 
 - **Is there an online platform or group where participants can connect before the school?**  
-  Details to be announced.
+  We will update more on this as we arrive closer to the event.
