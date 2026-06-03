@@ -8,7 +8,7 @@ navorder: 3
 <p class="text-muted fst-italic mb-4">This is a tentative schedule and is subject to change.</p>
 
 <div class="p-3 mb-4 bg-gray-2 rounded">
-<strong>Venue:</strong> Lawrence Berkeley National Laboratory — Molecular Foundry<br>
+<strong>Venue:</strong> Lawrence Berkeley National Laboratory<br>
 1 Cyclotron Road, Berkeley, CA 94720<br>
 <a href="https://www.google.com/maps/place/Lawrence+Berkeley+National+Laboratory" target="_blank">Get directions →</a>
 </div>
