@@ -101,7 +101,7 @@ navorder: 3
 
 <h2 id="day-2-tutorials" class="mt-5 mb-3">Day 2 — Tutorials <small class="text-muted fs-6">July 28, 2026</small></h2>
 
-<p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 99, Lawrence Berkeley National Laboratory</span></p>
+<p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 91, Lawrence Berkeley National Laboratory</span></p>
 
 <div class="table-responsive">
 <table class="table table-bordered align-middle">
