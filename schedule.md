@@ -15,7 +15,7 @@ navorder: 3
 
 <h2 id="day-1-molecular-foundry-summer-school-only" class="mt-4 mb-3">Day 1 — Human vs Robot <small class="text-muted fs-6">July 27, 2026</small></h2>
 
-<p class="text-muted small mb-2"><strong>Location:</strong> Molecular Foundry (B67)</p>
+<p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 66, Lawrence Berkeley National Laboratory</span></p>
 
 <div class="table-responsive">
 <table class="table table-bordered align-middle">
@@ -32,54 +32,68 @@ navorder: 3
     </tr>
     <tr>
       <td>9:00</td>
-      <td>Welcome — director &amp; user office</td>
+      <td>Welcome from the organizers</td>
     </tr>
     <tr>
-      <td>9:15</td>
-      <td>Intro AI for materials science</td>
+      <td>9:10</td>
+      <td>Director &amp; user office</td>
     </tr>
     <tr>
-      <td>9:45</td>
-      <td>Intro teams and projects</td>
+      <td>9:25</td>
+      <td>
+        Intro AI for materials science<br>
+        <span class="text-muted small">Shijing Sun (University of Cambridge)</span>
+      </td>
     </tr>
     <tr>
-      <td>10:00</td>
-      <td>Group photo</td>
-    </tr>
-    <tr>
-      <td>10:05</td>
-      <td>Lab safety</td>
+      <td>9:55</td>
+      <td>TBD</td>
     </tr>
     <tr style="background-color:#efefef;">
-      <td>10:20</td>
+      <td>10:25</td>
       <td>AM break</td>
     </tr>
     <tr>
-      <td>10:45</td>
+      <td>10:50</td>
+      <td>
+        Group photo<br>
+        <span class="text-muted small">Carolin M. Sutter-Fella (Lawrence Berkeley National Lab)</span>
+      </td>
+    </tr>
+    <tr>
+      <td>11:05</td>
+      <td>Intro teams, projects &amp; materials and characterization aspects for project work</td>
+    </tr>
+    <tr>
+      <td>11:45</td>
+      <td>Lab safety</td>
+    </tr>
+    <tr style="background-color:#efefef;">
+      <td>11:55</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>1:00</td>
       <td>
         Lab experience start<br>
-        <span class="text-muted small">~12 participants per team · 45 min + 5 min transition</span><br>
-        <span class="small">Proj 1: Lab — Human preparation</span><br>
+        <span class="text-muted small">~7–8 participants per team · 45 min + 5 min transition</span><br>
+        <span class="small">Proj 1: Lab — Human preparation / in situ + lab tour</span><br>
         <span class="small">Proj 2: Lab — AutoBot synthesis</span><br>
         <span class="small">Proj 3: Lab — 4D STEM / LLM-MCP</span><br>
         <span class="small">Proj 4: Lab — Nanocrystal robotic workflow</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
-      <td>12:25</td>
-      <td>Lunch break</td>
-    </tr>
-    <tr>
-      <td>1:25</td>
-      <td>Project work continued</td>
-    </tr>
-    <tr style="background-color:#efefef;">
-      <td>2:55</td>
+      <td>2:40</td>
       <td>PM break</td>
     </tr>
     <tr>
-      <td>3:15</td>
-      <td>Team challenge</td>
+      <td>3:10</td>
+      <td>Project work cont.</td>
+    </tr>
+    <tr>
+      <td>4:50</td>
+      <td>Get your computer ready</td>
     </tr>
   </tbody>
 </table>
@@ -87,7 +101,7 @@ navorder: 3
 
 <h2 id="day-2-tutorials" class="mt-5 mb-3">Day 2 — Tutorials <small class="text-muted fs-6">July 28, 2026</small></h2>
 
-<p class="text-muted small mb-2"><strong>Location:</strong> TBD</p>
+<p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 99, Lawrence Berkeley National Laboratory</span></p>
 
 <div class="table-responsive">
 <table class="table table-bordered align-middle">
@@ -100,7 +114,7 @@ navorder: 3
   <tbody>
     <tr>
       <td>9:00</td>
-      <td>Welcome, recap, days 2 &amp; 3 overview</td>
+      <td>Recap, days 2 &amp; 3 overview</td>
     </tr>
     <tr>
       <td>9:15</td>
@@ -127,61 +141,70 @@ navorder: 3
         <span class="text-muted small">Morgan Wall (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
-    <tr style="background-color:#efefef;">
+    <tr>
       <td>11:45</td>
+      <td>
+        UMAP data clustering<br>
+        <span class="text-muted small">Fabrice Roncoroni (Lawrence Berkeley National Laboratory)</span>
+      </td>
+    </tr>
+    <tr style="background-color:#efefef;">
+      <td>12:30</td>
       <td>Lunch break</td>
     </tr>
     <tr>
-      <td>12:45</td>
+      <td>1:30</td>
       <td>
         Getting your data AI ready<br>
         <span class="text-muted small">Shuan Cheng (University of Washington)</span>
       </td>
     </tr>
     <tr>
-      <td>1:30</td>
-      <td>ML general overview</td>
-    </tr>
-    <tr>
-      <td>1:45</td>
+      <td>2:15</td>
       <td>
-        Basics Gaussian process surrogate<br>
+        ML general overview<br>
         <span class="text-muted small">Marcus Noack (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr>
       <td>2:30</td>
-      <td>Building a Gaussian process model</td>
+      <td>
+        Basics Gaussian Process Surrogate<br>
+        <span class="text-muted small">Marcus Noack (Lawrence Berkeley National Lab)</span>
+      </td>
     </tr>
     <tr style="background-color:#efefef;">
       <td>3:15</td>
       <td>PM break</td>
     </tr>
     <tr>
-      <td>3:45</td>
+      <td>3:30</td>
+      <td>
+        Building a Gaussian Process model with gpCAM<br>
+        <span class="text-muted small">Marcus Noack (Lawrence Berkeley National Lab)</span>
+      </td>
+    </tr>
+    <tr>
+      <td>4:15</td>
       <td>
         Bayesian optimization<br>
         <span class="text-muted small">Marcus Noack (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr>
-      <td>4:30</td>
+      <td>5:00</td>
       <td>
-        Intro neural network<br>
-        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
+        Wrapping up with AI agent integration<br>
+        <span class="text-muted small">Marcus Noack (Lawrence Berkeley National Lab)</span>
       </td>
-    </tr>
-    <tr>
-      <td>5:15</td>
-      <td>Wrap up</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-<h2 id="day-3-tutorials-and-symposium" class="mt-5 mb-3">Day 3 — Tutorials &amp; Symposium <small class="text-muted fs-6">July 29, 2026</small></h2>
+<h2 id="day-3-tutorials-and-symposium" class="mt-5 mb-3">Day 3 — Tutorials <small class="text-muted fs-6">July 29, 2026</small></h2>
 
-<p class="text-muted small mb-2"><strong>Location:</strong> TBD</p>
+<p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 66, Lawrence Berkeley National Laboratory</span></p>
 
 <div class="table-responsive">
 <table class="table table-bordered align-middle">
@@ -249,9 +272,20 @@ navorder: 3
     <tr>
       <td>3:30</td>
       <td>
+        Intro neural network<br>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
+      </td>
+    </tr>
+    <tr>
+      <td>4:15</td>
+      <td>
         Generative models and/or Agentic workflows<br>
         <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
+    </tr>
+    <tr>
+      <td>5:00</td>
+      <td>Wrap up</td>
     </tr>
   </tbody>
 </table>
