@@ -77,10 +77,10 @@ navorder: 3
       <td>
         Lab experience start<br>
         <span class="text-muted small">~7–8 participants per team · 45 min + 5 min transition</span><br>
-        <span class="small">Proj 1: Lab — Human preparation / in situ + lab tour</span><br>
-        <span class="small">Proj 2: Lab — AutoBot synthesis</span><br>
-        <span class="small">Proj 3: Lab — 4D STEM / LLM-MCP</span><br>
-        <span class="small">Proj 4: Lab — Nanocrystal robotic workflow</span>
+        <span class="small">Project 1: Lab — Human preparation / in situ + lab tour</span><br>
+        <span class="small">Project 2: Lab — AutoBot synthesis</span><br>
+        <span class="small">Project 3: Lab — 4D STEM / LLM-MCP</span><br>
+        <span class="small">Project 4: Lab — Nanocrystal robotic workflow</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -89,7 +89,7 @@ navorder: 3
     </tr>
     <tr>
       <td>3:10</td>
-      <td>Project work cont.</td>
+      <td>Project work continued</td>
     </tr>
     <tr>
       <td>4:50</td>
