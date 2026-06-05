@@ -10,7 +10,8 @@ navorder: 3
 <div class="p-3 mb-4 bg-gray-2 rounded">
 <strong>Venue:</strong> Lawrence Berkeley National Laboratory<br>
 1 Cyclotron Road, Berkeley, CA 94720<br>
-<a href="https://www.google.com/maps/place/Lawrence+Berkeley+National+Laboratory" target="_blank">Get directions →</a>
+<a href="https://www.google.com/maps/place/Lawrence+Berkeley+National+Laboratory" target="_blank">Get directions →</a><br>
+<span style="color: #ff0000; font-weight: bold;">Please enter through the Blackberry Gate — do not enter through any other gate.</span>
 </div>
 
 <h2 id="day-1-molecular-foundry-summer-school-only" class="mt-4 mb-3">Day 1 — Human vs Robot <small class="text-muted fs-6">July 27, 2026</small></h2>
@@ -101,7 +102,7 @@ navorder: 3
 
 <h2 id="day-2-tutorials" class="mt-5 mb-3">Day 2 — Tutorials <small class="text-muted fs-6">July 28, 2026</small></h2>
 
-<p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 91, Lawrence Berkeley National Laboratory</span></p>
+<p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 66, Lawrence Berkeley National Laboratory</span></p>
 
 <div class="table-responsive">
 <table class="table table-bordered align-middle">
