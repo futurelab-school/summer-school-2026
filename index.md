@@ -19,7 +19,7 @@ navorder: 1
 
 <ul class="list-unstyled">
 <li>Professionals, postdocs, graduate students, undergraduate students.</li>
-<li>All coding activities will have ChatGPT-assisted coding — no Python or coding experience required.</li>
+<li>All coding activities will have ChatGPT-assisted coding, no Python or coding experience required.</li>
 <li>This is an in person event limited to 45 participants.</li>
 </ul>
 
@@ -30,7 +30,7 @@ navorder: 1
 <li>Site Access: All foreign nationals visiting Berkeley Lab require Department of Energy approval. It may take up to 60 calendar days to complete.</li>
 </ul>
 
-<span class="btn btn-danger mb-2" style="cursor: default; pointer-events: none;">Registration Closed — Event is Full</span>
+<span class="btn btn-danger mb-2" style="cursor: default; pointer-events: none;">Registration Closed: Event is Full</span>
 
 </div>
 

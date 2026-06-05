@@ -11,10 +11,10 @@ navorder: 3
 <strong>Venue:</strong> Lawrence Berkeley National Laboratory<br>
 1 Cyclotron Road, Berkeley, CA 94720<br>
 <a href="https://www.google.com/maps/place/Lawrence+Berkeley+National+Laboratory" target="_blank">Get directions →</a><br>
-<span style="color: #ff0000; font-weight: bold;">Please enter through the Blackberry Gate — do not enter through any other gate.</span>
+<span style="color: #ff0000; font-weight: bold;">Please enter through the Blackberry Gate only (do not enter through any other gate).</span>
 </div>
 
-<h2 id="day-1-molecular-foundry-summer-school-only" class="mt-4 mb-3">Day 1 — Human vs Robot <small class="text-muted fs-6">July 27, 2026</small></h2>
+<h2 id="day-1-molecular-foundry-summer-school-only" class="mt-4 mb-3">Day 1: Human vs Robot <small class="text-muted fs-6">July 27, 2026</small></h2>
 
 <p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 66, Lawrence Berkeley National Laboratory</span></p>
 
@@ -78,10 +78,10 @@ navorder: 3
       <td>
         Lab experience start<br>
         <span class="text-muted small">~7–8 participants per team · 45 min + 5 min transition</span><br>
-        <span class="small">Project 1: Lab — Human preparation / in situ + lab tour</span><br>
-        <span class="small">Project 2: Lab — AutoBot synthesis</span><br>
-        <span class="small">Project 3: Lab — 4D STEM / LLM-MCP</span><br>
-        <span class="small">Project 4: Lab — Nanocrystal robotic workflow</span>
+        <span class="small">Project 1: Lab: Human preparation / in situ + lab tour</span><br>
+        <span class="small">Project 2: Lab: AutoBot synthesis</span><br>
+        <span class="small">Project 3: Lab: 4D STEM / LLM-MCP</span><br>
+        <span class="small">Project 4: Lab: Nanocrystal robotic workflow</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -100,7 +100,7 @@ navorder: 3
 </table>
 </div>
 
-<h2 id="day-2-tutorials" class="mt-5 mb-3">Day 2 — Tutorials <small class="text-muted fs-6">July 28, 2026</small></h2>
+<h2 id="day-2-tutorials" class="mt-5 mb-3">Day 2: Tutorials <small class="text-muted fs-6">July 28, 2026</small></h2>
 
 <p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 66, Lawrence Berkeley National Laboratory</span></p>
 
@@ -203,7 +203,7 @@ navorder: 3
 </table>
 </div>
 
-<h2 id="day-3-tutorials-and-symposium" class="mt-5 mb-3">Day 3 — Tutorials <small class="text-muted fs-6">July 29, 2026</small></h2>
+<h2 id="day-3-tutorials-and-symposium" class="mt-5 mb-3">Day 3: Tutorials <small class="text-muted fs-6">July 29, 2026</small></h2>
 
 <p class="mb-2"><strong>Location:</strong> <span style="color: #1a73e8; font-weight: bold;">Building 66, Lawrence Berkeley National Laboratory</span></p>
 

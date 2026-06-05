@@ -16,7 +16,7 @@ The 2026 Future Labs Summer School brings together students and researchers to e
 <div class="col">
 <div class="p-3 bg-gray-2 rounded h-100">
 <h5>Robot-assisted synthesis</h5>
-<p class="mb-0">Participants fabricate and characterize thin-film and nanocrystal semiconductors using the Molecular Foundry's robotic platforms — hands-on experience with state-of-the-art laboratory automation.</p>
+<p class="mb-0">Participants fabricate and characterize thin-film and nanocrystal semiconductors using the Molecular Foundry's robotic platforms, providing hands-on experience with state-of-the-art laboratory automation.</p>
 </div>
 </div>
 
@@ -30,7 +30,7 @@ The 2026 Future Labs Summer School brings together students and researchers to e
 <div class="col">
 <div class="p-3 bg-gray-2 rounded h-100">
 <h5>Closed-loop experiment design</h5>
-<p class="mb-0">Participants explore Bayesian optimization, Gaussian processes, and active learning algorithms to design experiments autonomously — the core workflow of a self-driving laboratory.</p>
+<p class="mb-0">Participants explore Bayesian optimization, Gaussian processes, and active learning algorithms to design experiments autonomously, the core workflow of a self-driving laboratory.</p>
 </div>
 </div>
 
@@ -46,7 +46,7 @@ The 2026 Future Labs Summer School brings together students and researchers to e
 
 <h2>Who should attend</h2>
 
-<p>The summer school is open to professionals, postdocs, graduate students, and undergraduate students. No prior coding experience is required — all hands-on activities support ChatGPT-assisted coding.</p>
+<p>The summer school is open to professionals, postdocs, graduate students, and undergraduate students. No prior coding experience is required; all hands-on activities support ChatGPT-assisted coding.</p>
 
 <h2>Sponsors</h2>
 
