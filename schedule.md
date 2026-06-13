@@ -120,7 +120,7 @@ navorder: 3
     <tr>
       <td>9:15</td>
       <td>
-        ChatGPT coding &amp; intro Google Colab<br>
+        Introduction to Google Colab and Gemini-Assisted Coding<br>
         <span class="text-muted small">Shuan Cheng (University of Washington) / Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
@@ -156,7 +156,7 @@ navorder: 3
     <tr>
       <td>1:30</td>
       <td>
-        Getting your data AI ready<br>
+        Getting Your Data AI-Ready<br>
         <span class="text-muted small">Shuan Cheng (University of Washington)</span>
       </td>
     </tr>
