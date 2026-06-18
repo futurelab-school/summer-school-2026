@@ -89,6 +89,12 @@ experimental_instructors:
     role: "PhD Student"
     photo: "abigail_hering.jpeg"
 
+admin_support:
+  - name: "Suksham Barun"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Administrative Support"
+    photo: "barun_web.jpg"
+
 data_instructors:
   - name: "Morgan Wall"
     affiliation: "Lawrence Berkeley National Lab"

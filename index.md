@@ -50,6 +50,10 @@ navorder: 1
 
 {% include people_grid.html people=site.data.home.data_instructors %}
 
+<h2>Administrative Support</h2>
+
+{% include people_grid.html people=site.data.home.admin_support %}
+
 <div class="d-flex flex-wrap gap-2 mb-2">
 <a href="https://camsunlab.com/papers" class="btn btn-outline-primary btn-sm">Read More @ SunLab@Cambridge</a>
 <a href="https://sutterfellalab.lbl.gov/publications/" class="btn btn-outline-primary btn-sm">Read More @ Carolin M. Sutter-Fella Lab</a>
