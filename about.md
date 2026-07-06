@@ -57,6 +57,7 @@ The 2026 Future Labs Summer School brings together students and researchers to e
   <img src="{{ '/assets/images/logos/SCIPRIOS-icon.jpg' | relative_url }}" alt="SCIPIOS" style="height:120px;object-fit:contain;">
   <img src="{{ '/assets/images/logos/npj_AI_logo.jpg' | relative_url }}" alt="npj AI" style="height:45px;object-fit:contain;">
   <img src="{{ '/assets/images/logos/PRXEnergy_Lockup_cmyk.png' | relative_url }}" alt="PRX Energy" style="height:200px;object-fit:contain;">
+  <img src="{{ '/assets/images/logos/CellPress_logo.jpg' | relative_url }}" alt="Cell Press" style="height:120px;object-fit:contain;">
 </div>
 
 <h2>Host organizations</h2>
