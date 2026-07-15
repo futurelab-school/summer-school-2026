@@ -88,6 +88,10 @@ experimental_instructors:
     affiliation: "University of California Davis"
     role: "PhD Student"
     photo: "abigail_hering.jpeg"
+  - name: "Anne Pham"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Scientific Engineering Associate"
+    photo: "pham_web.jpg"
 
 admin_support:
   - name: "Suksham Barun"

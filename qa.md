@@ -68,7 +68,7 @@ navorder: 8
   Yes, Wi-Fi will be available for all participants: Lbnl-open or eduroam.
 
 - **Is it recommended to bring a personal laptop? Should participants pre-install anything before arriving?**  
-  Yes, a personal laptop is required to follow the tutorials. We will mostly use Google Colab and participants will require a Google account to open, run, and save notebooks. If they don't already have one, creating a Google account is free and straightforward at [accounts.google.com](http://accounts.google.com){:target="_blank"}.
+  Yes, a personal laptop is required to follow the tutorials. We will mostly use Google Colab and participants will require a Google account to open, run, and save notebooks. If they don't already have one, creating a Google account is free and straightforward at [accounts.google.com](http://accounts.google.com){:target="_blank"}. You will also need an ORCID iD, a free and permanent digital identifier. It takes about 2 minutes to set up here: [orcid.org/register](https://orcid.org/register){:target="_blank"}.
 
 - **Is there any material available to review before the summer school?**  
   Yes, please check the summer school website. We are planning to add a resources tab with reading materials some time in July.
