@@ -25,7 +25,7 @@ navorder: 8
   The closest major airport is San Francisco International Airport (SFO), followed by Oakland International Airport (OAK), which is closer and often more convenient. From either airport, you can reach Berkeley by BART (Bay Area Rapid Transit). From downtown Berkeley, LBNL operates a free shuttle that departs from the Downtown Berkeley BART station and stops at several locations on the LBNL site. We recommend checking the [LBNL shuttle schedule](https://commute.lbl.gov/service/shuttle-buses/){:target="_blank"} before you travel.
 
 - **Is there parking available on site?**  
-  Yes, there is parking available at LBNL, but it is limited. The guest house has parking if you are staying on site. We strongly encourage participants to make use of the LBNL shuttle buses and use other public transit options where possible.
+  On-site parking is available, but vehicles must be registered for site access in advance. Please contact Suksham Barun ([sbarun@lbl.gov](mailto:sbarun@lbl.gov)) by the end of business on Thursday, 23rd July, 2026, to arrange access for your vehicle. Participants are strongly encouraged to use the LBNL shuttle buses whenever possible.
 
 - **Is it permitted to take a taxi or Uber/Lyft directly to the site, e.g. the guest house?**  
   Yes, as long as the driver is only shuttling an approved participant for drop-off. The driver needs a valid driver's license. They will be permitted on-site for the limited purpose of conducting the drop-off. The driver needs to enter through the [Blackberry gate](https://www2.lbl.gov/Workplace/lab-site-map.html){:target="_blank"}. Walking to building 66 from the Blackberry gate takes about ~15 min.

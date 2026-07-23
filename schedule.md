@@ -28,8 +28,8 @@ navorder: 3
   </thead>
   <tbody>
     <tr>
-      <td>8:30</td>
-      <td>Registration</td>
+      <td>8:15</td>
+      <td>Registration &amp; breakfast</td>
     </tr>
     <tr>
       <td>9:00</td>
@@ -121,7 +121,7 @@ navorder: 3
       <td>9:15</td>
       <td>
         Introduction to Google Colab and Gemini-Assisted Coding<br>
-        <span class="text-muted small">Shuan Cheng (University of Washington) / Hemanth Neelgund Ramesh (University of Washington)</span>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
     <tr>
@@ -157,7 +157,7 @@ navorder: 3
       <td>1:30</td>
       <td>
         Getting Your Data AI-Ready<br>
-        <span class="text-muted small">Shuan Cheng (University of Washington)</span>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
     <tr>
@@ -219,32 +219,32 @@ navorder: 3
     <tr>
       <td>9:00</td>
       <td>
-        Framing of autonomous labs and physical AI<br>
-        <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
+        Generative models and/or Agentic workflows<br>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
     <tr>
-      <td>9:30</td>
+      <td>9:45</td>
       <td>
-        Hardware control foundations<br>
-        <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
+        Intro neural network<br>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
-      <td>10:15</td>
+      <td>10:30</td>
       <td>AM break</td>
     </tr>
     <tr>
-      <td>10:45</td>
+      <td>11:00</td>
       <td>
-        System integration connecting devices<br>
+        Framing of autonomous labs and physical AI<br>
         <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
       </td>
     </tr>
     <tr>
       <td>11:30</td>
       <td>
-        LLM in the loop<br>
+        Hardware control foundations<br>
         <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
       </td>
     </tr>
@@ -255,33 +255,33 @@ navorder: 3
     <tr>
       <td>1:15</td>
       <td>
-        Autonomy<br>
+        System integration connecting devices<br>
         <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
       </td>
     </tr>
     <tr>
       <td>2:00</td>
       <td>
-        Group tinkering<br>
-        <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab) &amp; team</span>
+        LLM in the loop<br>
+        <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
+      </td>
+    </tr>
+    <tr>
+      <td>2:45</td>
+      <td>
+        Autonomy<br>
+        <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
-      <td>3:00</td>
+      <td>3:30</td>
       <td>PM break</td>
     </tr>
     <tr>
-      <td>3:30</td>
+      <td>4:00</td>
       <td>
-        Intro neural network<br>
-        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
-      </td>
-    </tr>
-    <tr>
-      <td>4:15</td>
-      <td>
-        Generative models and/or Agentic workflows<br>
-        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
+        Group tinkering<br>
+        <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab) &amp; team</span>
       </td>
     </tr>
     <tr>

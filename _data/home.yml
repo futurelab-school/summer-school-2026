@@ -92,6 +92,18 @@ experimental_instructors:
     affiliation: "Lawrence Berkeley National Lab"
     role: "Scientific Engineering Associate"
     photo: "pham_web.jpg"
+  - name: "Luan Passini"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Postdoc"
+    photo: "luan_passini.png"
+  - name: "Jungmin Hamm"
+    affiliation: "UC Berkeley"
+    role: "PhD Student"
+    photo: "jungmin_hamm.png"
+  - name: "Young Gwon Jung"
+    affiliation: "Gwangju Institute of Science and Technology (GIST)"
+    role: "PhD Student"
+    photo: "young_gwon_jung.jpg"
 
 admin_support:
   - name: "Suksham Barun"
